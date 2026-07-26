@@ -1,290 +1,192 @@
-\# 🚀 Machine Learning Projects
-
-
-
-!\[Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-
-!\[Machine Learning](https://img.shields.io/badge/Machine%20Learning-Projects-green)
-
-!\[OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
-
-!\[TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow)
-
-!\[License](https://img.shields.io/badge/License-MIT-lightgrey)
-
-
-
-A comprehensive collection of \*\*Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP)\*\* projects developed using Python and popular ML frameworks.
-
-
-
-This repository is intended for \*\*learning, experimentation, academic reference, and portfolio demonstration\*\*.
-
-
-
-\---
-
-
-
-\# 👨‍💻 Developed By
-
-
-
-\### Manigandan Vedant
-
-\### Nelson Kolas
-
-
-
-\---
-
-
-
-\# 📂 Projects Included
-
-
-
-\- 🤖 AI Room Booking Chatbot (IBM Watson)
-
-\- 🧠 Brain Tumor Detection
-
-\- ❤️ Heart Disease Prediction
-
-\- 🩺 Diabetes Prediction
-
-\- 👨 Gender \& Age Detection using Deep Learning
-
-\- 🚶 Human Activity Detection
-
-\- 👥 Human Detection \& Counting
-
-\- 🛣 Lane Line Detection
-
-\- 🌸 Iris Flower Classification
-
-\- 🏏 IPL Score Prediction
-
-\- 💰 Loan Repayment Prediction
-
-\- 💼 Employee Turnover Prediction
-
-\- 🧬 Mechanism of Action (MoA) Prediction
-
-\- 💬 Medical Chatbot (NLP)
-
-\- 🏘 Property Maintenance Fine Prediction
-
-\- 📚 Research Topic Prediction
-
-\- 😊 Smile Selfie Capture
-
-\- 😴 Drowsiness Detection
-
-\- 😀 Emoji Creator using OpenCV
-
-\- 🍷 Wine Quality Prediction
-
-\- 📈 Time Series Multi-Store Sales Prediction
-
-\- 🌍 Battle of Neighborhoods (Coursera Capstone)
-
-
-
-\---
-
-
-
-\# 🛠 Technologies Used
-
-
-
-\- Python
-
-\- Scikit-learn
-
-\- TensorFlow
-
-\- Keras
-
-\- OpenCV
-
-\- Flask
-
-\- Pandas
-
-\- NumPy
-
-\- Matplotlib
-
-\- Seaborn
-
-\- Jupyter Notebook
-
-
-
-\---
-
-
-
-\# 📁 Repository Structure
-
-
-
-```
-
-Machine-Learning-Projects/
-
+<p align="center">
+  <img src="images/banner.png" alt="Machine Learning Projects Banner" width="100%">
+</p>
+
+<h1 align="center">🚀 Machine Learning Projects</h1>
+
+<p align="center">
+A curated collection of Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing (NLP) projects built using Python and modern AI frameworks.
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-DeepLearning-orange?logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/OpenCV-ComputerVision-red?logo=opencv)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-ML-f7931e?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+</p>
+
+---
+
+# 👨‍💻 Developers
+
+| Name | GitHub |
+|------|--------|
+| **Manigandan Vedant** | https://github.com/Electroxadict |
+| **Nelson Kolas** | Contributor |
+
+---
+
+# 📖 About
+
+This repository contains multiple Machine Learning and Artificial Intelligence projects covering
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Time Series Forecasting
+- Predictive Analytics
+- Data Science
+
+These projects are intended for educational purposes, portfolio demonstration, experimentation, and learning.
+
+---
+
+# 📂 Projects
+
+| Project | Domain |
+|----------|--------|
+| 🤖 AI Room Booking Chatbot | NLP |
+| 🧠 Brain Tumor Detection | Deep Learning |
+| ❤️ Heart Disease Prediction | Machine Learning |
+| 🩺 Diabetes Prediction | Machine Learning |
+| 👨 Gender & Age Detection | Computer Vision |
+| 🚶 Human Activity Detection | Computer Vision |
+| 👥 Human Detection & Counting | OpenCV |
+| 🛣 Lane Line Detection | Computer Vision |
+| 🌸 Iris Flower Classification | Classification |
+| 🏏 IPL Score Prediction | Regression |
+| 💰 Loan Repayment Prediction | Machine Learning |
+| 💼 Employee Turnover Prediction | Machine Learning |
+| 🧬 Mechanism of Action Prediction | Deep Learning |
+| 💬 Medical Chatbot | NLP |
+| 🏘 Property Maintenance Fine Prediction | Machine Learning |
+| 📚 Research Topic Prediction | NLP |
+| 😊 Smile Selfie Capture | OpenCV |
+| 😴 Drowsiness Detection | Computer Vision |
+| 😀 Emoji Creator | OpenCV |
+| 🍷 Wine Quality Prediction | Classification |
+| 📈 Time Series Sales Prediction | Forecasting |
+| 🌍 Battle of Neighborhoods | Data Science |
+
+---
+
+# 🛠 Tech Stack
+
+- Python
+- TensorFlow
+- Keras
+- Scikit-Learn
+- OpenCV
+- NumPy
+- Pandas
+- Matplotlib
+- Flask
+- Jupyter Notebook
+
+---
+
+# 📁 Repository Structure
+
+```text
+Machine-Learning-Projects
 │
-
 ├── AI Room Booking Chatbot
-
 ├── Brain Tumor Detection
-
 ├── Diabetes Prediction
-
 ├── Heart Disease Prediction
-
 ├── Human Activity Detection
-
-├── Human Detection \& Counting
-
+├── Human Detection & Counting
 ├── Medical Chatbot
-
 ├── Wine Quality Prediction
-
-└── ...more projects
-
+├── Time Series Sales Prediction
+├── README.md
+├── LICENSE
+└── images
+    └── banner.png
 ```
 
+---
 
+# 🚀 Installation
 
-\---
-
-
-
-\# 🚀 Getting Started
-
-
-
-Clone the repository:
-
-
+Clone the repository
 
 ```bash
-
 git clone https://github.com/Electroxadict/Machine-Learning-Projects.git
-
 ```
 
-
-
-Move into the folder:
-
-
+Move into the project folder
 
 ```bash
-
 cd Machine-Learning-Projects
-
 ```
 
-
-
-Install the required dependencies for a specific project:
-
-
+Install dependencies
 
 ```bash
-
 pip install -r requirements.txt
-
 ```
 
+Run any project according to its documentation.
 
+---
 
-Run the project according to its documentation.
+# ⭐ Features
 
+- Machine Learning Projects
+- Deep Learning Models
+- Computer Vision Applications
+- NLP Projects
+- End-to-End AI Solutions
+- OpenCV Applications
+- Data Science Projects
+- Time Series Forecasting
 
+---
 
-\---
+# 📌 Disclaimer
 
+This repository is created for educational, research, and portfolio purposes. Some projects may include publicly available datasets or pre-trained models. Please review the individual project folders for dataset sources, licensing information, and documentation before reuse.
 
+---
 
-\# ⭐ Features
+# 🤝 Contributing
 
+Contributions are welcome.
 
+If you'd like to improve an existing project or add a new one:
 
-\- Machine Learning Projects
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Open a Pull Request
 
-\- Deep Learning Projects
+---
 
-\- Computer Vision Applications
+# 📜 License
 
-\- Natural Language Processing
+This project is licensed under the **MIT License**.
 
-\- Data Science Projects
+See the **LICENSE** file for details.
 
-\- Time Series Forecasting
+---
 
-\- End-to-End ML Applications
+# 📧 Contact
 
-\- OpenCV Projects
+**Manigandan Vedant**
 
+GitHub: https://github.com/Electroxadict
 
+---
 
-\---
+<p align="center">
 
+### ⭐ If you found this repository useful, please consider giving it a Star ⭐
 
+Made with ❤️ by **Manigandan Vedant** & **Nelson Kolas**
 
-\# 📌 Note
-
-
-
-Some projects include datasets, trained models, or sample files for educational purposes. Please refer to each project's documentation for details and dataset sources.
-
-
-
-\---
-
-
-
-\# 🤝 Contributions
-
-
-
-Contributions, suggestions, and improvements are welcome.
-
-
-
-Feel free to fork this repository and submit a pull request.
-
-
-
-\---
-
-
-
-\# ⭐ Support
-
-
-
-If you find these projects useful, consider giving this repository a ⭐ on GitHub.
-
-
-
-\---
-
-
-
-\## 📧 Authors
-
-
-
-\*\*Manigandan Vedant\*\*
-
-
-
-\*\*Nelson Kolas\*\*
-
-
-
+</p>
