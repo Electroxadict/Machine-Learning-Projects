@@ -1,0 +1,636 @@
+C:\Users\manig\Downloads\Machine-Learning-Projects\.gitignore
+C:\Users\manig\Downloads\Machine-Learning-Projects\01-Rock-vs-Mine-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\02-Diabetes-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\03-House-Price-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\04-Fake-News-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\05-Loan-Status-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\06-Wine-Quality-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\07-Car-Price-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\08-Gold-Price-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\09-Heart-Disease-Detection
+C:\Users\manig\Downloads\Machine-Learning-Projects\10-DL-Handwritten-Digit-Recognition
+C:\Users\manig\Downloads\Machine-Learning-Projects\11-Soft-Drinks-Sales-Market-Analysis-and-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\12-Credit-Card-Fraud-Detection
+C:\Users\manig\Downloads\Machine-Learning-Projects\13-Customer-Segmentation
+C:\Users\manig\Downloads\Machine-Learning-Projects\14-Medical-Insurance-Cost-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\15-Big-Mart-Sales-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\16-Parkinsons-Disease-Detection
+C:\Users\manig\Downloads\Machine-Learning-Projects\17-Titanic-Survival-Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\18-Movie-Recommendation-System
+C:\Users\manig\Downloads\Machine-Learning-Projects\19-Movie-Recommendation-System-V2
+C:\Users\manig\Downloads\Machine-Learning-Projects\20-DL-Breast-Cancer-Classification
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting
+C:\Users\manig\Downloads\Machine-Learning-Projects\23-DL-Face-Mask-Detection
+C:\Users\manig\Downloads\Machine-Learning-Projects\AI Room Booking Chatbot [IBM WATSON]
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]
+C:\Users\manig\Downloads\Machine-Learning-Projects\datasets
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]
+C:\Users\manig\Downloads\Machine-Learning-Projects\Distracted Driver Detection
+C:\Users\manig\Downloads\Machine-Learning-Projects\docs
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]
+C:\Users\manig\Downloads\Machine-Learning-Projects\files.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning
+C:\Users\manig\Downloads\Machine-Learning-Projects\Getting Admission in College Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\Heart Disease Prediction [END 2 END]
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Detection & Counting Project [OPEN CV]
+C:\Users\manig\Downloads\Machine-Learning-Projects\images
+C:\Users\manig\Downloads\Machine-Learning-Projects\IPL Score Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification
+C:\Users\manig\Downloads\Machine-Learning-Projects\Lane Line Detection [OPEN CV]
+C:\Users\manig\Downloads\Machine-Learning-Projects\LICENSE
+C:\Users\manig\Downloads\Machine-Learning-Projects\LICENSE.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Loan Repayment Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\Mechanisms Of Action (MoA) Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predict Employee Turnover with scikitlearn
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predicting Property Maintenance Fines
+C:\Users\manig\Downloads\Machine-Learning-Projects\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Research topic Prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\Resources
+C:\Users\manig\Downloads\Machine-Learning-Projects\Smile Selfie Capture Project  [OPEN CV]
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone
+C:\Users\manig\Downloads\Machine-Learning-Projects\TimeSeries Multi StoreSales prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\Wine Quality prediction
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\COMMIT_EDITMSG
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\config
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\description
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\FETCH_HEAD
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\HEAD
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\index
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\info
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\ORIG_HEAD
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\applypatch-msg.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\commit-msg.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\fsmonitor-watchman.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\post-update.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\pre-applypatch.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\pre-commit.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\pre-merge-commit.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\pre-push.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\pre-rebase.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\pre-receive.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\prepare-commit-msg.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\push-to-checkout.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\sendemail-validate.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\hooks\update.sample
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\info\exclude
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\HEAD
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs\heads
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs\remotes
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs\heads\main
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs\remotes\origin
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs\remotes\origin\HEAD
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\logs\refs\remotes\origin\main
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\01
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\07
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\08
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\0a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\0c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\0d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\11
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\12
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\14
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\16
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\1b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\24
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\26
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\2c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\2e
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\30
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\34
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\38
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\3c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\40
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\44
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\45
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\46
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\4d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\53
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\55
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\56
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\57
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\58
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\5a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\5b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\5f
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\60
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\61
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\63
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\66
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\6a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\6b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\6e
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\72
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\73
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\75
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\76
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\77
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\78
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\79
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\7b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\81
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\84
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\85
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\87
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\88
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8f
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\90
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\95
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\96
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\9d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\9e
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\a2
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ad
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ae
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\af
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b2
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b3
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b7
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b9
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ba
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\bd
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\be
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\cb
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\cc
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\cf
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d0
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d3
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d4
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d7
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d8
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d9
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\dd
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e4
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e7
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\eb
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\f0
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\f2
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\fa
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\info
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\pack
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\01\96eba01956852ca87ec0ce7e0e55e2c431ebf0
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\07\89dffa0c61bed65b2617578c11c52e0ec90c41
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\08\f99fb7b9d5ba287c52bd363567a068842e47d6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\0a\ba0c09f15e56f262780803c5debd264e2636fb
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\0c\cc3094aa21d0cee54aa647cb843b43b8ce24e8
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\0d\20beb1bf360a57d6cceeffba985bf09f511f34
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\11\e90bcb12e6f82572880619951fcb6e55b6cec3
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\12\6e35fd4449bf608bf8096e573d6f04cca96a12
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\14\229cfba4ad9d8b6967375131d267f18e578cd4
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\16\afcf69e3f5e60d4349c26131ab686bfade339c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\1b\97848ad2db3cdf1bd1d6aa1b5bf32530ad7581
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\24\ede4a13b57a078992fd1c7e144c2c75434fb9d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\26\f6b916dc5c7d116b5b7a1b50ed9443f748154b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\2c\73ac7b8356a12541d875bb761e285940a63c27
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\2e\8ba18ac43c4aae9fb12d0e89c292ff98ecaaa1
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\30\a5982dffae593d51a72b9ad1b970ef5ed38133
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\34\c3bdd5444c9dafcb0f0b3f419aa12dd1b1be3c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\38\905ff31438d5b186d705fd9a21be5bfe95802c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\3c\9c876d3003072079059808314c49b28899b740
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\40\30e21d1b30281d2d0f1a641f51dae603f625ea
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\44\5547d2c8ef07048a90415eff9168ce0430c3ba
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\45\13a011c5ce82703a0eb43730f1a593f2057e1a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\46\7cbf1e70f4cbd7837bd1f6bfb6fe73ea7b4527
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\4d\5c9fa7048c7c88dd4824e611cb61fab16611db
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\53\304925fcde5cc5fdf85c288a77f4dc006fb9da
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\55\c27473463cc20e8ac1c2dccdefcffbceb479f6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\56\3fb30a372ef2d4562473e4db0971c88fe7b659
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\57\d78c9e8a5c11f6e25b50517f6862a9075e67b3
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\58\a09b72db38b5ed2e560268987440c51abfc4f9
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\58\a108d8780d1fb9d4de9e64fb2cdd00132d371b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\58\ae07e1d6104409066895e94fb1864f27e6137e
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\5a\df3d7c3c7ca929cd9456cfeb835c4d0d92a52f
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\5b\d81820c9bce42c21cb3e572ad6f9c464eab362
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\5f\23a2fcd99fdfff3040582e52c73f3ec727b31b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\60\8899ebd599a40886a65a5fcd41f37c619207e4
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\61\07a157ab3950a1b3d2587a6a6e8722ff6181b5
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\63\cbc98606f6f89d49bd9c65a865cda0af4e8d3b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\63\e642f1acc8c68b5c1b6b97d077374b0c926370
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\66\60087cd9e85ff2fbcf3b3bfc7034bab6e0bf08
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\6a\a43b2ca87fb3c87b2f8e411715a57b3ab0d467
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\6b\4276daffe13e2136c449ca45c5f6e7bcd89a10
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\6e\5485361834e1189c7f8cb86f55139072f3b916
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\72\22e5ee0b6a5dee3b2c4041b98e17c7906e83d7
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\72\67b3b018ba1fb6431473f9ad101413f180a2dc
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\73\c33a8fb7eb4a455fbdd0d0bb5a96c65d0dc325
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\75\2779bda6423fe9b52f8c41722ad4117e237f41
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\76\4a02794be4d852aed0e438dd52c8de74d068c6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\77\5f4472f49acf2d3d611b5ab6704e2b3b34a02f
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\78\93749fc6fd6f6a3d5208122f99f58036cb975d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\79\be59174aa25f1d0b4230427d1a76ab7a5abd77
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\7b\3b60a09f824ac0ca4c4749f3711e3a23cf6356
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\81\546bca083bec3954e85ecabeb08cf9fd6ce089
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\84\4e7d2601b67c4055bf2eebd0beafa9cc8bd3c8
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\85\f64f8f43b4a3fcb36a9f065eb3b48196781132
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\87\897a8b742d393292baf5ff11856aaaff345bb4
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\88\df4ea4e1731a15ac7d471d387a37da6f06fa6f
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8a\14dc82829f8e580c93c5810b537c764188246f
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8b\10a71cccd32c2276a9093c25fe2721f8a5015e
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8b\ae66ed975baf3dfa50e706be2bacbd0fd54cc9
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8b\f615e784c766f0652cabaa276848a077d86610
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\8f\41e111f281841a0ff8d148a2dafb4f4558ac1d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\90\16356a09e244203317cadb22e8d1506fe09977
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\95\64f7c1d0adb9dc7983007a5c7dc5ecef00b0e0
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\96\23d0afd2e6c872abdda8e349e65026320c311c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\9d\f0213a349111cc6b50a3bc227d9a4e6b5614f8
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\9e\b6d9c8714519d15ef65310c96a95bfdedee077
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\a2\a724d3dfc1e1665b3c650df7bda294dcf2d49a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ad\1dc10f0e2688075fc962894bb34dc1591bd887
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ae\0de18bb6cbee2641ed63309b40d802905ca27d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ae\5b477d60fbdc76a599b6b5195b129b80b588a3
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\af\71d7ddc5816e573266db7f61f0b33d3297f3c6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b2\119fcc31888d1bdb8abd927f96d5ad25717cce
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b2\3f3dc42834e0c2fa672177f24c953f32e6d00c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b2\da45af5ec2c1e66cc46010e83dc53aaa86e9bf
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b3\4dcbdc875aafbf8f8b25722b350ab0f6c7fa93
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b6\88f0573aa6c7d118d5dce49cca6bb1e9bc5cb7
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b7\7da57b9cdf1b248b6049e6d3bb26732426b3ea
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b9\025b602658c8e6b7b4caeeaa1e46cb963d26cc
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\b9\0ca6a5da14c2ab9c4aa29aad9beaf20ee02204
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\ba\d97386c1dd8c8e88050fde828965cb69b1b20d
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\bd\05e25100e9676b8445e8ba0de655a20cac04ea
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\bd\ca24954716d840c45b1888b50460232594d1d5
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\be\9f4b0f05a8f54afe1dcc0d9d0d3bc2aa82f09b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\cb\7e8c74213731d4392e4a5d763fd2da439b98cf
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\cc\c40befd186042fe595648b8b694d1204e661bb
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\cf\19f34e1d2986f1b7f2d29a6d5b694172c89ad6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d0\56627e5060a3d53ebe14e10bc76213e0f81d8b
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d0\ba12ef7eff2ea283209735f3d9ce20d1e516b6
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d3\a8c88203b913159074f2e2695ef746cce8e415
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d4\a0396eb5be4b930f3fff09dbaec35bb4502883
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d4\b23bc24ca6917c9da313033f1c9a5219ed8196
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d6\96f6443c7cc63e290efa888c2430cb5565be0a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d7\baaaa266ac279a750349d9b3850459349cb5d0
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d8\36e31284d28309b4b562dbcc034c196a4889f5
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d8\3bc547571e1c0b63d665e28343cf2d80f78ed1
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d9\8b9c0d226b9a382446716f09f06ccb7dce5257
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\d9\a67ca4869ac6cc6c6011dd94cfd6d3d43594aa
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\dd\89648fbc12faa01b0a0303e121b5a4cd6419fa
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e4\6d84b944e43a331fbe5e87688751ad2ff9078c
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e6\344c853dd43fe761958ad22e3b07916b8b3375
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e6\f7b07a97e39a3f530e4b647eb0160d135a885e
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e7\4de0289aabf36f5179332049bde0fc331c8094
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\e7\75cdfa2967df53118fe0fb9b6d911e5537676a
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\eb\77eeaf4dd44a14e74b3bb98d797a0a52aba2c0
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\f0\52bd57e902356e176acf109689022b99ef6dd5
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\f2\b1f474a05bef37277df4bf084a508f5b862fa8
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\fa\b18600db8e9ed76164acc9e6e59e6478c07148
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\pack\pack-64e1f906677c5e9c3e1a93b52b7e100eb601a511.idx
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\pack\pack-64e1f906677c5e9c3e1a93b52b7e100eb601a511.pack
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\objects\pack\pack-64e1f906677c5e9c3e1a93b52b7e100eb601a511.rev
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\heads
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\remotes
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\tags
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\heads\main
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\remotes\origin
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\remotes\origin\HEAD
+C:\Users\manig\Downloads\Machine-Learning-Projects\.git\refs\remotes\origin\main
+C:\Users\manig\Downloads\Machine-Learning-Projects\01-Rock-vs-Mine-Prediction\Rock_vs_Mine_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\02-Diabetes-Prediction\Diabetes_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\03-House-Price-Prediction\House_Price_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\04-Fake-News-Prediction\Fake_News_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\05-Loan-Status-Prediction\Loan_Status_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\06-Wine-Quality-Prediction\Wine_Quality_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\07-Car-Price-Prediction\Car_Price_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\08-Gold-Price-Prediction\Gold_Price_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\09-Heart-Disease-Detection\Heart_Disease_Detection.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\10-DL-Handwritten-Digit-Recognition\Handwritten_Digit_Recognition.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\11-Soft-Drinks-Sales-Market-Analysis-and-Prediction\Soft_drinks_Sales_Market_Analysis_and_Prediction_final.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\12-Credit-Card-Fraud-Detection\Credit_Card_Fraud_Detection.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\13-Customer-Segmentation\Customer_Segmentation.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\14-Medical-Insurance-Cost-Prediction\Medical_Insurance_Cost_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\15-Big-Mart-Sales-Prediction\Supermarket_Sales_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\16-Parkinsons-Disease-Detection\Parkinsons_Disease_Detection.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\17-Titanic-Survival-Prediction\Data
+C:\Users\manig\Downloads\Machine-Learning-Projects\17-Titanic-Survival-Prediction\Titanic_Survival_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\17-Titanic-Survival-Prediction\Data\train.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\18-Movie-Recommendation-System\Movie_Recommendation_System.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\19-Movie-Recommendation-System-V2\Movie_Recommendation_System_V2.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\20-DL-Breast-Cancer-Classification\Breast_Cancer_Classification_with_NN.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\Time_Series_Temperature_Forcasting.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model\fingerprint.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model\keras_metadata.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model\saved_model.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model\variables
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model\variables\variables.data-00000-of-00001
+C:\Users\manig\Downloads\Machine-Learning-Projects\21-DL-Time-Series-Temperature-Forecasting\model\variables\variables.index
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\Multivariate_Time_Series_Weather_Forecasting.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN\fingerprint.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN\keras_metadata.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN\saved_model.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN\variables
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN\variables\variables.data-00000-of-00001
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_CNN\variables\variables.index
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU\fingerprint.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU\keras_metadata.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU\saved_model.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU\variables
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU\variables\variables.data-00000-of-00001
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_GRU\variables\variables.index
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm\fingerprint.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm\keras_metadata.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm\saved_model.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm\variables
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm\variables\variables.data-00000-of-00001
+C:\Users\manig\Downloads\Machine-Learning-Projects\22-DL-Multivariate-Time-Series-Weather-Forecasting\model_lstm\variables\variables.index
+C:\Users\manig\Downloads\Machine-Learning-Projects\23-DL-Face-Mask-Detection\Face_Mask_Detection.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\AI Room Booking Chatbot [IBM WATSON]\demo.gif
+C:\Users\manig\Downloads\Machine-Learning-Projects\AI Room Booking Chatbot [IBM WATSON]\IBM_Cloud_Function.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\AI Room Booking Chatbot [IBM WATSON]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\AI Room Booking Chatbot [IBM WATSON]\skill-Room-Booking.json
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_2.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_3.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_4.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_5.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_6.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_7.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\cover\cover_8.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\keras.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\matplotlibbg.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\nltk.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\nltkbg.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\numpybg.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\pandasbg.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\python.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\seaborn.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\sklearn_bg.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\assets\icons\tensorflowbg.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\app.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\models
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\requirements.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\static
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\templates
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\1.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\10.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\2.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\3.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\4.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\5.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\6.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\8.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\Brain-Tumor-Test-Images\9.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\models\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\models\Temp-File.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\static\b.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\templates\Diseasedet.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\templates\error.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\templates\MainPage.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\templates\pred.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\BRAIN TUMOR DETECTION [END 2 END]\templates\uimg.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Data
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\final with pca.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Model
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Preprocessing and EDA
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Data\arrhythmia.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\age.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\arrhythmia.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\class wise visualization.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\height.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\Histogram class distribution.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\missingvalue.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\pairwiseGraph.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\QRS duration.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\sex.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Image\weight.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Model\general and pca.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Model\oversampled and pca.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Preprocessing and EDA\Data preprocessing.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Classification of Arrhythmia [ECG DATA]\Preprocessing and EDA\EDA.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\Animation.gif
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\Colorize_Black_and_White_Image.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\GUI.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\image other.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\image.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\image_colarization.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\input.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\models
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\new.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\new1.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\output.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\pts_in_hull.npy
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\result.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\models\colorization_deploy_v2.prototxt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Colorize Black & white images [OPEN CV]\models\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\datasets\dataset_info.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes Classification.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\app.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Diabetes Predictor - Deployment.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\diabetes-prediction-rfc-model.pkl
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Procfile
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\requirements.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Resource
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\static
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\templates
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Resource\heroku.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Resource\live1.gif
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Resource\numpy.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\Resource\pandas.jpeg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\static\diabetes.webp
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\static\no-diabetes.webp
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\static\s.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\static\wall.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\static\wallpaper.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\templates\index.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\Diabetes-prediction deployed\templates\result.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\.gitignore
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\config.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\dataset
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\data_preprocessing.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\evaluate.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\experiments
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\logs
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\predict.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\train.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\dataset\kaggle_diabetes.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\experiments\experiment_runner.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\experiments\results.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\experiments\__init__.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Diabetes Prediction [END 2 END]\diabetes_pipeline\logs\training.log
+C:\Users\manig\Downloads\Machine-Learning-Projects\Distracted Driver Detection\Distrated Driver detection.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Distracted Driver Detection\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Distracted Driver Detection\supp
+C:\Users\manig\Downloads\Machine-Learning-Projects\Distracted Driver Detection\supp\driver.gif
+C:\Users\manig\Downloads\Machine-Learning-Projects\docs\index.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\docs\_config.yml
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\alarm.wav
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\drowsinessdetection.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\haar cascade files
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\model.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\models
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\haar cascade files\haarcascade_frontalface_alt.xml
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\haar cascade files\haarcascade_lefteye_2splits.xml
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\haar cascade files\haarcascade_righteye_2splits.xml
+C:\Users\manig\Downloads\Machine-Learning-Projects\Drowsiness detection [OPEN CV]\models\cnnCat2.h5
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\data.zip
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\emojis.zip
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\emotion_model.h5
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\gui.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\haarcascade_frontalface_default.xml
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\logo.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\emoji creator project [OPEN CV]\train.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\age_deploy.prototxt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\age_net.caffemodel
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\gad.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\gender_deploy.prototxt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\gender_net.caffemodel
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\girl1.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\girl2.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\kid1.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\man1.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\minion.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\opencv_face_detector.pbtxt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\opencv_face_detector_uint8.pb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\woman1.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Gender and age detection using deep learning\woman3.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Getting Admission in College Prediction\Admission prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Getting Admission in College Prediction\admission_predict.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Getting Admission in College Prediction\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Heart Disease Prediction [END 2 END]\Heart Disease Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Heart Disease Prediction [END 2 END]\heart.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Heart Disease Prediction [END 2 END]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\app.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\Human_Action_Classification_deployment_with_ngrok.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\Human_Activity_Recogination.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\images
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\lstm_train.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\models
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\requirements.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\sample_video.mp4
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\templates
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\images\val_acc.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\images\val_loss.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\models\saved_model.ckpt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\lstm.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\train.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\utils.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\video_analyzer.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\__init__.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\__pycache__
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\__pycache__\lstm.cpython-37.pyc
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\src\__pycache__\__init__.cpython-37.pyc
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Activity Detection\templates\index.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Detection & Counting Project [OPEN CV]\human-counting-project-code.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Detection & Counting Project [OPEN CV]\images.jpg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Human Detection & Counting Project [OPEN CV]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\images\banner.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\IPL Score Prediction\dataset
+C:\Users\manig\Downloads\Machine-Learning-Projects\IPL Score Prediction\First Innings Score Prediction - IPL.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\IPL Score Prediction\dataset\ipl.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\iris.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\iris_data.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\KNN on Iris Dataset
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\SVM Iris.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\KNN on Iris Dataset\iris_Flower_Classifcation_using_KNN.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\KNN on Iris Dataset\iris_Flower_Classifcation_using_KNN.pdf
+C:\Users\manig\Downloads\Machine-Learning-Projects\Iris Flower Classification\KNN on Iris Dataset\iris_Flower_Classification_using_KNN.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Lane Line Detection [OPEN CV]\gui.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Lane Line Detection [OPEN CV]\logo.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Lane Line Detection [OPEN CV]\main.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Loan Repayment Prediction\loan_data.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Loan Repayment Prediction\Loan_Repayment_Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Loan Repayment Prediction\Loan_Repayment_Prediction.pdf
+C:\Users\manig\Downloads\Machine-Learning-Projects\Mechanisms Of Action (MoA) Prediction\MOA.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Mechanisms Of Action (MoA) Prediction\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Mechanisms Of Action (MoA) Prediction\supp
+C:\Users\manig\Downloads\Machine-Learning-Projects\Mechanisms Of Action (MoA) Prediction\supp\cells_moa_mike_crop.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Mechanisms Of Action (MoA) Prediction\supp\m
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\app.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\data
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\intents.json
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\intents_short.json
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\LICENSE
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\Meddy.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\models
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\nltk_utils.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\nnet.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\nnet.py (2)
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\templates
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\__pycache__
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\data\dataset.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\data\list_of_symptoms.pickle
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\data\Symptom-severity.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\data\symptom_Description.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\data\symptom_precaution.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\models\data.pth
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\models\fitted_model.pickle
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\models\fitted_model.pickle2
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\assets
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\css
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\js
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\assets\files
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\assets\img
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\assets\files\ds_symptoms.txt
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\assets\img\background.svg
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\css\style.css
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\static\js\main.js
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\templates\index.html
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\__pycache__\app.cpython-37.pyc
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\__pycache__\nltk_utils.cpython-37.pyc
+C:\Users\manig\Downloads\Machine-Learning-Projects\Medical Chatbot [END 2 END] [NLP]\__pycache__\nnet.cpython-37.pyc
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predict Employee Turnover with scikitlearn\employee_data.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predict Employee Turnover with scikitlearn\Learner_Notebook3.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predict Employee Turnover with scikitlearn\partition-feature-space.png
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predict Employee Turnover with scikitlearn\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predicting Property Maintenance Fines\Predicting Property Maintainance Fines.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Predicting Property Maintenance Fines\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Research topic Prediction\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\Research topic Prediction\Research-topic-Prediction.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Research topic Prediction\submission6.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\Research topic Prediction\test_8iecVfC.zip
+C:\Users\manig\Downloads\Machine-Learning-Projects\Research topic Prediction\train_tGmol3O.zip
+C:\Users\manig\Downloads\Machine-Learning-Projects\Resources\banner.gif
+C:\Users\manig\Downloads\Machine-Learning-Projects\Resources\banner1.gif
+C:\Users\manig\Downloads\Machine-Learning-Projects\Smile Selfie Capture Project  [OPEN CV]\dataset
+C:\Users\manig\Downloads\Machine-Learning-Projects\Smile Selfie Capture Project  [OPEN CV]\main.py
+C:\Users\manig\Downloads\Machine-Learning-Projects\Smile Selfie Capture Project  [OPEN CV]\dataset\haarcascade_frontalface_default.xml
+C:\Users\manig\Downloads\Machine-Learning-Projects\Smile Selfie Capture Project  [OPEN CV]\dataset\haarcascade_smile.xml
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone\Capstone Project - The Battle of Neighborhoods - Report.pdf
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone\Capstone Project - The Battle of the Neighborhoods - London Neighborhood Clustering.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone\Capstone Project presentation.pdf
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone\dataset
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone\dataset\df_can.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\The Battle of Neighborhoods -Coursera capstone\dataset\df_final.csv
+C:\Users\manig\Downloads\Machine-Learning-Projects\TimeSeries Multi StoreSales prediction\README.md
+C:\Users\manig\Downloads\Machine-Learning-Projects\TimeSeries Multi StoreSales prediction\Time Series Regression - Multi-Store Sales.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Wine Quality prediction\Wine.ipynb
+C:\Users\manig\Downloads\Machine-Learning-Projects\Wine Quality prediction\winequality.csv
