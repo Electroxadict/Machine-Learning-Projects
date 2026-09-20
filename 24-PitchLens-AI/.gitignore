@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTest / Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Database & Generated Logs
+logs/*.log
+database/pitchlens.db
+
+# Reports
+reports/*.pdf
+reports/*.json
+reports/*.csv
+
+# Models (Keep baseline model if committed, ignore temporary artifacts)
+*.joblib.bak
+
+# IDEs
+.vscode/
+.idea/
+*.swp
